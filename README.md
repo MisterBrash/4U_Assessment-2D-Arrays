@@ -42,7 +42,7 @@ W - - E   <=>   7 - - 3
   /|\             /|\
 SW S SE         6  5  4
 ```
-- You do not know where the starting position is. That is to say, it is _not_ (0, 0).
+- You do not know where the starting position is. That is to say, it is _not necessarily_ (0, 0).
 - Any direction is valid, at any time.
 - The function ends (returns the grid) when the given `data` has run out.
 **Important final data points:**
