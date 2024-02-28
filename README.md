@@ -5,7 +5,7 @@ An extension of the `random walk` (see 2.2 challenge) is a [heat map](https://en
 You will create some functions that provide heat maps for a 2-dimensional grid. _You **are** permitted to use any of your own previous code._
 
 ### Print_2d
-Copy over your `print_2d` function (and any other helper functions) from the `2.2 - Arrays` task so that you can easily see results.
+Copy over your `print_2d` function (and any other helper functions) from the `2.2 - 2D Arrays` task so that you can easily see results.
 
 ### Ver. 1 - Completely Random
 Create the function `heat_map(width, height)` that starts at location (0, 0) and randomly moves in any direction - including diagonally. The goal is to reach the bottom-right corner (`width`-1, `height`-1).
