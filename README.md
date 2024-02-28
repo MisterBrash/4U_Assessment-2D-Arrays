@@ -1,6 +1,6 @@
 # 2.2 ASSESSMENT - Heat Map
 
-An extension of the `random walk` (see 2.2 challenge) is a [heat map](https://en.wikipedia.org/wiki/Heat_map). Essentially every time a location (or data point) is touched, increase the value by 1. This represents how "hot" that data item is.
+An extension of the `random walk` (see 2.2 challenge) is a [heat map](https://en.wikipedia.org/wiki/Heat_map). Essentially every time a location (or data point) is touched, increase the value by 1. This represents how "hot" that data item is. (More info available [here](https://chartio.com/learn/charts/heatmap-complete-guide/))
 
 You will create some functions that provide heat maps for a 2-dimensional grid. _You **are** permitted to use any of your own previous code._
 
