@@ -28,7 +28,7 @@ Create the function `controlled_map(width, height, start, end)` that starts at l
 - The values of `start` and `end` should never be equal.
   - If they are, the program should exit (return) and the _only_ data point with any value should be `start` with a value of 1.
 - In this version, the map will never backtrack one step.
-  - Example: if the movement is [3, 4] -> [4, 4], it will not immediately go back to [3, 4]
+  - Example: if the movement is [3, 4] -> [4, 4], it cannot (should not) immediately go back to [3, 4]
   - It _can_ revisit locations, just not immediately
 - All other rules of Ver. 1 apply, except the start and end locations.
 
