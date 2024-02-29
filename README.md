@@ -51,9 +51,46 @@ SW S SE         6  5  4
 - The starting location is marked with "*"
 - The final location is marked with "X"
 
-**Ver. 3 Examples will follow**
-
 Plan your work carefully for this. It is highly recommended that you _pseudocode_ or create a plan before starting to code.
 
+**Ver. 3 Examples:**
+(note - your solution might look _slightly_ different than the examples.)
+```
+Given: [ 5, 6, 8, 2, 5, 6, 1, 2, 4, 5, 5, 3, 6, 3, 2, 6, 2, 6, 7, 6, 6, 2,
+         7, 7, 1, 2, 5, 2, 8, 2, 1, 3, 8, 5, 8, 5, 6, 8, 5, 8, 7, 5, 4, 4,
+         4, 2, 4, 8, 6, 4 ]
+
+Heat Map:
+0	0	0	0	1	1	0	0	0	
+1	1	1	0	1	4	*	0	0	
+1	0	1	1	2	2	2	0	0	
+0	1	0	0	2	1	1	0	0	
+0	0	1	0	3	1	1	1	2	
+0	0	0	3	1	1	2	3	0	
+0	0	0	1	X	2	0	0	0	
+0	0	0	0	1	0	0	0	0
+```
+
+```
+Given: [ 5, 2, 8, 2, 8, 8, 3, 1, 7, 1, 6, 3, 2, 8, 6, 6, 5, 4, 5, 6, 1, 5,
+         5, 8, 6, 1, 5, 1, 4, 1, 1, 5, 7, 3, 6, 7, 5, 7, 6, 4, 6, 1, 4, 6,
+         4, 8, 7, 5, 7, 7 ]
+
+Heat Map:
+0	0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	1	1	0	
+0	0	0	0	0	0	0	0	1	1	2	1	0	
+0	0	0	0	0	0	0	0	1	0	1	1	0	
+0	0	0	0	0	0	0	0	0	1	0	1	0	
+0	0	0	0	0	0	0	1	1	1	0	0	1	
+0	0	0	0	0	0	3	4	2	0	0	1	0	
+0	0	0	0	0	1	3	1	1	0	0	*	1	
+0	0	0	0	1	1	0	0	0	0	0	1	0	
+0	0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	1	2	0	0	0	0	0	0	0	0	0	
+X	1	1	0	1	0	0	0	0	0	0	0	0
+```
 
 <br><br><br><br>
