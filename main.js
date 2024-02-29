@@ -9,3 +9,5 @@
  */
 
 'use strict';
+
+// Getting started
