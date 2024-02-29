@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yncxXyPP)
 # 2.2 ASSESSMENT - Heat Maps
 
 An extension of the `random walk` (see 2.2 challenge) is a [heat map](https://en.wikipedia.org/wiki/Heat_map). Essentially every time a location (or data point) is touched, increase the value by 1. This represents how "hot" that data item is. (More info available [here](https://chartio.com/learn/charts/heatmap-complete-guide/))
