@@ -13,7 +13,7 @@ Create the function `heat_map(width, height)` that starts at location (0, 0) and
 **Some details:**
 
 - Your starting location of (0, 0) begins with a value of 1.
-- You could move in one of eight possible directions: N, NE, E, SW, S, SW, W, NW.
+- You could move in one of eight possible directions: N, NE, E, SE, S, SW, W, NW.
 - You must not exit the grid.
   - For example, a movement of "N" as the first move is not permitted, pick a new direction
 - Every direction should always have the same probability of being selected.
