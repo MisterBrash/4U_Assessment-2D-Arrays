@@ -1,6 +1,6 @@
 /**************
- *  ICS4U - Mr. Brash
- *  2.2 Assessment - Heat Maps
+ *  ICS4U - Mr. Brash 🐿️
+ *  Assessment - 2D Arrays
  *
  *  Read the README.md file carefully.
  *
@@ -10,4 +10,4 @@
 
 'use strict';
 
-// Getting started
+
